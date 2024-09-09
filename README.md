@@ -12,6 +12,8 @@ The Chirikov standard map is a fundamental example of a chaotic dynamical system
 The map is defined by the following pair of equations:
 
 $$p_{n+1} = p_n + K \sin(x_n) \pmod{2\pi}$$
+
+
 $$x_{n+1} = x_n + p_{n+1} \pmod{2\pi}$$
 
 where:
