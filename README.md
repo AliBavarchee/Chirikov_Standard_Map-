@@ -1,5 +1,5 @@
-# Chirikov_Standard_Map-
-Chirikov standard map by FORTRAN90
+# Chirikov standard map by FORTRAN90
+
 ![Logo](Figure_2.jpeg)
 I'd be glad to create the text for your `read.md` file on GitHub:
 
