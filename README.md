@@ -3,10 +3,8 @@ Chirikov standard map by FORTRAN90
 ![Logo](Figure_2.jpeg)
 
 The Chirikov standard map is a simple, yet fundamental, example of a chaotic dynamical system, defined by the following equations:
-pn+1=pn+Ksin⁡(xn) mod (2π)
-pn+1​=pn​+Ksin(xn​)mod(2π)
-xn+1=xn+pn+1 mod (2π)
-xn+1​=xn​+pn+1​mod(2π)
+$pn+1=pn+Ksin⁡(xn) mod (2π)$
+$xn+1=xn+pn+1 mod (2π)$
 
 where:
 
