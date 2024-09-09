@@ -1,7 +1,6 @@
 # Chirikov standard map by FORTRAN90
 
 ![Logo](Figure_2.jpeg)
-I'd be glad to create the text for your `read.md` file on GitHub:
 
 **The Chirikov Standard Map: A Simple Chaotic System**
 
