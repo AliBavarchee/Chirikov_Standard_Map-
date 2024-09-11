@@ -1,6 +1,6 @@
 # Chirikov standard map by FORTRAN90
 
-![Logo](poincare_map.html)
+![Logo](Contour Plot of the Hamiltonian.png)
 
 **The Chirikov Standard Map: A Simple Chaotic System**
 
