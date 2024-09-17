@@ -26,3 +26,8 @@ where:
 - The second equation updates the position based on the updated momentum $$(p_{(n+1)})$$ from the previous step. The modulo operator (mod) ensures that both position and momentum values remain within the range of 0 to 2π.
 
 By iterating these equations, the system evolves through a sequence of states, revealing various dynamical regimes depending on the chosen value of K. This iterative process allows us to explore how even a simple system can exhibit complex and unpredictable behavior.
+
+---
+# **Reference**
+
+http://www.scholarpedia.org/article/Chirikov_standard_map?fbclid=IwY2xjawFWmo1leHRuA2FlbQIxMAABHZ5Zw2ZuUhkvemRi7YNwNibHqegtCg9lW2JUPONmNHpjSihTyYykOXCWNw_aem_0HsGwBRmYRbvLDZVIHUC6Q
